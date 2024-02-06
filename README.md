@@ -1,14 +1,69 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-# Ease-Edit
-a sleek React app that's all about text magic! ✨✏️ It can convert to uppercase/lowercase, delete text, generate sample text, copy to clipboard, tidy up extra spaces, and even has a cool dark mode switch. Let's embrace the power of text editing! 
-<br>
+  <h3 align="center">EASE-EDIT</h3>
+
+  <p align="center">
+    A Sleek React app that's all about text magic!
+    <br/>
+    <br/>
+    <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator">View Demo</a>
+    .
+    <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator/issues">Report Bug</a>
+    .
+    <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator/issues">Request Feature</a>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/DivyanshUpadhyay/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/DivyanshUpadhyay/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/DivyanshUpadhyay/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/DivyanshUpadhyay/ReadME-Generator) ![License](https://img.shields.io/github/license/DivyanshUpadhyay/ReadME-Generator) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![Screen Shot](images/screenshot.png)
+
+a sleek React app that's all about text magic! ✨✏️ It can convert to uppercase/lowercase, delete text, generate sample text, copy to clipboard, tidy up extra spaces, and even has a cool dark mode switch. Let's embrace the power of text editing!
 Author - Divyansh Upadhyay
-=======
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Built With
 
-## Available Scripts
+This project was bootstrapped with Create React App.
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+* npm
+
+```sh
+npm install npm@latest -g
+```
+
+### Installation
 
 In the project directory, you can run:
 
@@ -45,6 +100,39 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+## Roadmap
+
+See the [open issues](https://github.com/DivyanshUpadhyay/ReadME-Generator/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/DivyanshUpadhyay/ReadME-Generator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/DivyanshUpadhyay/ReadME-Generator/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/DivyanshUpadhyay/ReadME-Generator/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **DivyanshUpadhyay** - *WEB DEVELOPER* - [DivyanshUpadhyay](https://github.com/DivyanshUpadhyay) - *Built ReadME Template*
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
