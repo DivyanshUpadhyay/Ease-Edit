@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <img src="Images/s" alt="Logo" width="80" height="80">
+    <img src="Images/s.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EASE-EDIT</h3>
