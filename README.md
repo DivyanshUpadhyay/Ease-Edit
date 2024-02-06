@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/DivyanshUpadhyay/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-sndyy&psig=AOvVaw1Jhqo2AMEAp3QKSvX28Lwg&ust=1707312756394000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNij--_ploQDFQAAAAAdAAAAABAE)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EASE-EDIT</h3>
